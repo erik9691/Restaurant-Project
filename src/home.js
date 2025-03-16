@@ -1,6 +1,7 @@
 export default LoadHome;
 
-function LoadHome() {
+function LoadHome()
+{
     const divContent = document.querySelector("#content");
 
     const sectionHero = document.createElement("section");
