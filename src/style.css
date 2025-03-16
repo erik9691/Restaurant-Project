@@ -63,9 +63,11 @@ section
 .section-content
 {
     font-size: 1.5rem;
-    width: 70ch;
-    margin-top: 1%;
+    width: 73ch;
+    margin-top: 2%;
+    line-height: 1.7em;
 }
+
 .hero
 {
     height: calc(100vh - 80px);
@@ -82,7 +84,7 @@ section
     } 
 }
 
-.hours
+ul.section-content
 {
-
+    line-height: 2em;
 }
